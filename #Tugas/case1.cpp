@@ -33,7 +33,7 @@ int main() {
     
     // Menggunakan operator perkalian\\
     c = c * 30 / 100;
-    cout << "Hasil Nilai Tugas adalah = " << c << endl;
+    cout << "Hasil Nilai Ulangan adalah = " << c << endl;
 
     return 0;
 
